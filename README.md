@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @infrared-studio
-- 👀 I’m interested in bot development
-- 🌱 I’m currently learning javascript
+- 👀 I’m building a [NPM package](https://www.npmjs.com/package/splitscript.js?activeTab=readme) for making discord bots
 - 📫 [Join](https://discord.gg/6vZ9emknfJ) my discord
 <!---
 infrared-studio/infrared-studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
