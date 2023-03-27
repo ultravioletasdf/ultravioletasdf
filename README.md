@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infrared-studio&repo=splitscript.js&theme=dracula)](https://github.com/infrared-studio/splitscript.js)
 - 👋 Hi, I’m @infrared-studio
 - 👀 I’m building a [NPM package](https://www.npmjs.com/package/splitscript.js?activeTab=readme) for making discord bots
 - 📫 [Join](https://discord.gg/6vZ9emknfJ) my discord
