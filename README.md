@@ -5,6 +5,6 @@
 infrared-studio/infrared-studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github-readme-stats.vercel.app/api?username=infrared-studio&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=infrared-studio&theme=dracula&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=infrared-studio&langs_count=8&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=infrared-studio&langs_count=8&theme=dracula&layout=compact)
