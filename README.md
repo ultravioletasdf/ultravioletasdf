@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @infrared-studio
-- 👀 I’m building a [NPM package](https://www.npmjs.com/package/splitscript.js?activeTab=readme) for making discord bots
-- 📫 [Join](https://discord.gg/6vZ9emknfJ) my discord
+Discord Bot and Web Developer using Node.js
+
+Currently building: https://splitscript.js.org
+
+Discord: https://discord.gg/fCTGvyNTHG
+
 <!---
 infrared-studio/infrared-studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
