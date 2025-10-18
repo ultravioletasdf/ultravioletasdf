@@ -5,11 +5,13 @@ Building [Splitscript.js](https://splitscript.js.org) and [Runik](https://runik.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 38 mins   ██████████████▓░░░░░░░░░░   58.38 %
-Templ             0 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-SQL               0 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Lua               0 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Protocol buffer   0 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+From: 19 July 2025 - To: 17 October 2025
+
+Go                42 hrs 0 mins   █████████████▒░░░░░░░░░░░   53.27 %
+Svelte            5 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+SQL               5 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Unknown           4 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Python            4 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
