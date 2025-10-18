@@ -17,4 +17,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
           SHOW_TITLE: true
+          SHOW_TOTAL: true
           TIME_RANGE: all_time
