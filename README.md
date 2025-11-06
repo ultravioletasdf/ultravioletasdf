@@ -5,15 +5,15 @@ Building [Splitscript.js](https://splitscript.js.org) and [Runik](https://runik.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2025 - To: 03 November 2025
+From: 19 July 2025 - To: 05 November 2025
 
-Total Time: 98 hrs 36 mins
+Total Time: 99 hrs 36 mins
 
-Go                48 hrs 29 mins  ████████████▒░░░░░░░░░░░░   49.17 %
-SQL               7 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Templ             6 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Svelte            5 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Unknown           4 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Go                49 hrs 27 mins  ████████████▒░░░░░░░░░░░░   49.65 %
+SQL               7 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Templ             6 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Svelte            5 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Unknown           5 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
