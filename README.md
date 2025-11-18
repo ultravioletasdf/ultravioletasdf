@@ -7,7 +7,7 @@ Building [Splitscript.js](https://splitscript.js.org) and [Runik](https://runik.
 ```txt
 From: 19 July 2025 - To: 16 November 2025
 
-Total Time: 106 hrs 30 mins
+Total Time: 106 hrs 29 mins
 
 Go                49 hrs 42 mins  ███████████▓░░░░░░░░░░░░░   46.67 %
 Svelte            8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
