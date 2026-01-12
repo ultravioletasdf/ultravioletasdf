@@ -1,3 +1,6 @@
+## Moving to Codeberg
+[Link](https://codeberg.org/ultravioletasdf?tab=activity)
+
 Golang dev
 
 Building [Splitscript.js](https://splitscript.js.org) and [Runik](https://runik.dev)
